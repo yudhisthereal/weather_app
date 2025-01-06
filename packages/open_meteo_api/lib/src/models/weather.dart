@@ -2,7 +2,6 @@ import 'package:json_annotation/json_annotation.dart';
 
 part 'weather.g.dart';
 
-
 @JsonSerializable()
 class Weather {
   const Weather ({
@@ -14,6 +13,7 @@ class Weather {
       _$WeatherFromJson(json);
 
   final double temperature;
-  @JsonKey(name: 'weatherCode')
+  @JsonKey(name: 'weathercode')
   final int weatherCode;
 }
+

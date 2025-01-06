@@ -2,9 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-
-import 'models/location.dart';
-import 'models/weather.dart';
+import 'package:open_meteo_api/open_meteo_api.dart';
 
 /// Exception thrown when locationSearch fails.
 class LocationRequestFailure implements Exception {}
