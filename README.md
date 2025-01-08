@@ -113,6 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 📧
 For questions, suggestions, or issues, feel free to open an issue on the repo or contact me at:
 - **Email**: yudhistherel@gmail.com
+- **LinkedIn**: [Yudhistira](https://www.linkedin.com/in/yudhistira-yudhistira-351088272/)
 - **GitHub**: [yudhisthereal](https://github.com/yudhisthereal)
 
 ---
